@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">OpenWeatherApp</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_location_picker">BookMark City</string>
+
+
+    <!--Retrofit Call Message-->
+    <string name="noDataAvailable">No data Available</string>
+    <string name="toast_something_wrong">Something went wrong please try again..</string>
+    <string name="toast_try_after_sometimes">Something went wrong please try after sometimes..</string>
+    <string name="toast_no_internet">Please try again , There is network error</string>
+    <string name="toast_time_out">Please try again ,There is network error</string>
+
+    <string name="empty_message">No Any bookmarked cities are found , Please add city for view weather.</string>
+
+    <string name="celcius">\u2103</string>
+    <string name="degree">&#xb0;</string>
+
+    <string name="city">City</string>
+    <string name="address">Address</string>
+    <string name="temperature">Temperature</string>
+
+    <string name="pressure">Pressure</string>
+    <string name="humidity">Humidity</string>
+    <string name="wind_speed">Wind Speed</string>
+    <string name="wind_deg">Wind Deg.:</string>
+    <string name="sunrise">Sun rise:</string>
+    <string name="sunset">Sun set:</string>
+
+    <string name="lattitude">Latitude : </string>
+    <string name="longitude">Longitude : </string>
+
+
+    <string name="reset_bookmark_title">Reset Book Mark</string>
+    <string name="reset_bookmark_desc">Are you want to reset the book mark cities ?</string>
+    <string name="bookmark_completion_msg">Book Mark reset successfully</string>
+    <string name="yes">Yes</string>
+    <string name="no">no</string>
+
+
+</resources>
